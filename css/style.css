@@ -9,4 +9,11 @@ body {
     left: 20px;
     top: 4cm;
 }
+.classy {
+    position: absolute;
+    display: inline;
+    width: 3.8cm;
+    top: .1cm;
+    left: .1cm;
+}
 }
