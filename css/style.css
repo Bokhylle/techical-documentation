@@ -1,1 +1,12 @@
 /* style.css */
+@media only screen and (min-width: 1200px) {
+body {
+    margin-left: 5cm;
+}
+#navbar {
+    display: inline;
+    position: fixed;
+    left: 20px;
+    top: 4cm;
+}
+}
